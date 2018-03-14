@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\12.PolymorphismExercise\02.VehicleExtention\bin\Debug\netcoreapp2.0\02.VehicleExtention.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\12.PolymorphismExercise\02.VehicleExtention\bin\Debug\netcoreapp2.0\02.VehicleExtention.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\12.PolymorphismExercise\02.VehicleExtention\bin\Debug\netcoreapp2.0\02.VehicleExtention.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\12.PolymorphismExercise\02.VehicleExtention\bin\Debug\netcoreapp2.0\02.VehicleExtention.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\12.PolymorphismExercise\02.VehicleExtention\bin\Debug\netcoreapp2.0\02.VehicleExtention.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\12.PolymorphismExercise\02.VehicleExtention\obj\Debug\netcoreapp2.0\02.VehicleExtention.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\12.PolymorphismExercise\02.VehicleExtention\obj\Debug\netcoreapp2.0\02.VehicleExtention.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\12.PolymorphismExercise\02.VehicleExtention\obj\Debug\netcoreapp2.0\02.VehicleExtention.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\12.PolymorphismExercise\02.VehicleExtention\obj\Debug\netcoreapp2.0\02.VehicleExtention.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\12.PolymorphismExercise\02.VehicleExtention\obj\Debug\netcoreapp2.0\02.VehicleExtention.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\12.PolymorphismExercise\02.VehicleExtention\obj\Debug\netcoreapp2.0\02.VehicleExtention.pdb
